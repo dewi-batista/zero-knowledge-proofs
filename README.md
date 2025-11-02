@@ -1,6 +1,6 @@
 # Exponential elliptic curve ElGamal encyrption circuit implementations in [`Circom`](https://github.com/iden3/circom)
 
-![Circuit diagram](figures/hom_add.png)
+<!-- ![Circuit diagram](figures/hom_add.png) -->
 ![Circuit diagram](figures/hom_enc.png)
 ![Circuit diagram](figures/re-rand.png)
 
